@@ -1,1 +1,3 @@
-# atividde1
+# atividade1
+
+correçao da palavra
